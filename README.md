@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **JavaScript and ReactJS**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking forward to collaborating on **open source projects**
 
 - 💬 Ask me about **Frontend libraries**
 
 - 📫 How to reach me **xennia316@gmail.com**
 
-- ⚡ Fun fact **I love to sing 😊**
+- ⚡ Fun fact **I love to sing and dance😊**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xennia316&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xennia316&" alt="xennia316" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xennia316&theme=dracula" alt="xennia316" /></p>
