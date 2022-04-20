@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/zennia316" target="blank"><img src="https://img.shields.io/twitter/follow/zennia316?logo=twitter&style=for-the-badge" alt="zennia316" /></a> </p>
 
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/xennia316/xennia316/blob/main/github-svg.png?raw=true"><img alt="Github" src="https://github.com/xennia316/xennia316/blob/main/github-svg.png?raw=true" style="max-width: 100%;" width="55%" align="right"></a></p>
+
 - 🔭 I’m currently working on **a few projects**
 
 - 🌱 I’m currently learning **JavaScript and ReactJS**
