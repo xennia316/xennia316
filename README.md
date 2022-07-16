@@ -32,6 +32,6 @@
 ![Soniag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xennia316&show_icons=true&theme=midnight-purple&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xennia316&langs_count=20&layout=compact&theme=midnight-purple&align=right&width=100%&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xennia316&theme=midnight-purple&align=ce&width=100%&hide_border=true" alt="xennia316" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xennia316&theme=midnight-purple&align=ce&width=100%&hide_border=true" alt="xennia316" /></p>
 
-<!-- [![Sonia's github activity graph](https://activity-graph.herokuapp.com/graph?username=xennia316&theme=chartreuse-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Sonia's github activity graph](https://activity-graph.herokuapp.com/graph?username=xennia316&theme=chartreuse-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
