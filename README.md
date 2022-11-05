@@ -18,6 +18,8 @@
 - 📫 How to reach me **xennia316@gmail.com**
 
 - ⚡ Fun fact **I love to sing and dance 🎼**
+  
+- 🎁 Incase you want to buy me a present **Just give me 5mins with Zendaya 😩**
  </br>
 
 # Let's Connect
