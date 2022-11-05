@@ -1,7 +1,6 @@
 
 <img src='https://github.com/xennia316/xennia316/blob/main/header.png?raw=true'>
 <h2 align="center">A passionate frontend developer from Cameroon</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xennia316&label=Profile%20views&color=0e75b6&style=flat" alt="xennia316" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zennia316" target="blank"><img src="https://img.shields.io/twitter/follow/zennia316?logo=twitter&style=for-the-badge" alt="zennia316" /></a> </p>
 
