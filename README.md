@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on any **open beginner roles**
 
-- 💬 Ask me about **Life as a young devolper 😊**
+- 💬 Ask me about **Life as a young devolper || disney 2016 😊**
 
 - 📫 How to reach me **xennia316@gmail.com**
 
