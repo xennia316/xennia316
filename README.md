@@ -7,19 +7,17 @@
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/xennia316/xennia316/blob/main/github-svg.png?raw=true"><img alt="Github" src="https://github.com/xennia316/xennia316/blob/main/github-svg.png?raw=true" style="max-width: 100%;" width="55%" align="right"></a></p>
 
-- 🔭 I’m currently working on **a few projects**
+- 🔭 I’m currently working on **getting better at reactjs everyday**
 
 - 🌱 I’m currently learning **JavaScript and ReactJS**
 
-- 👯 I’m looking to collaborate on any **open source projects**
+- 👯 I’m looking to collaborate on any **open beginner developer roles**
 
-- 💬 Ask me about **Frontend libraries**
+- 💬 Ask me about ** Anything at all 😊**
 
 - 📫 How to reach me **xennia316@gmail.com**
 
-- ⚡ Fun fact **I love to sing and dance😊**
-
-- For no reason exactly **I love Zendaya to stuppo 😩**
+- ⚡ Fun fact **I love to sing and dance 🎼**
  </br>
 
 # Let's Connect
